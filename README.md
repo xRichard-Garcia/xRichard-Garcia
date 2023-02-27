@@ -34,3 +34,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
   </a> 
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xldreams&show_icons=true&theme=dracula&count_private=true&locale=en" alt="Richard" /></p>
