@@ -1,5 +1,4 @@
 <h2> Hi, I'm Richard Garcia! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47jsj4qplxc10o479r4zyafu5uldmfl7bk3ity8105&rid=giphy.gif&ct=g" width="90"></h2>
-
 <h3 align="left">contact me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-josu%c3%a9-garc%c3%ada-espinoza-42a582216/" target="blank">
