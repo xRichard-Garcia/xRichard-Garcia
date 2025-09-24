@@ -34,4 +34,4 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xldreams&show_icons=true&theme=dracula&count_private=true&locale=en" alt="Richard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xRichard-Garcia&show_icons=true&theme=dracula&count_private=true&locale=en" alt="Richard" /></p>
